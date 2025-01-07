@@ -1,5 +1,5 @@
-import { HeroContent } from "./hero-content"
-import { HeroImage } from "./hero-image"
+import { HeroContent } from "./hero-content";
+import { HeroImage } from "./hero-image";
 
 export function HeroSection() {
   return (
@@ -9,5 +9,5 @@ export function HeroSection() {
         <HeroImage />
       </div>
     </div>
-  )
+  );
 }
