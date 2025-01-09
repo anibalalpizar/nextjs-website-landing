@@ -13,7 +13,7 @@ export function HeroImage() {
     >
       <div className="w-full h-[500px] relative">
         <Image
-          src="/hero.svg"
+          src="/images/hero/hero.svg"
           alt="Hero illustration"
           fill
           className="object-contain"
